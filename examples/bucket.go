@@ -2,7 +2,7 @@ package examples
 
 import (
 	"fmt"
-	"github.com/ewilde/go-runscope"
+	"github.com/louy/go-runscope"
 )
 
 var accessToken = "{your token}"  // See https://www.runscope.com/applications

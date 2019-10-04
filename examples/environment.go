@@ -1,7 +1,7 @@
 package examples
 
 import (
-	"github.com/ewilde/go-runscope"
+	"github.com/louy/go-runscope"
 )
 
 func createSharedEnvironment() {

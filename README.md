@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ewilde/go-runscope.svg?branch=master)](https://travis-ci.org/ewilde/go-runscope)
+[![Build Status](https://travis-ci.org/louy/go-runscope.svg?branch=master)](https://travis-ci.org/louy/go-runscope)
 
 # go-runscope
 go-runscope is a [go](https://golang.org/) client library for the
@@ -7,7 +7,7 @@ go-runscope is a [go](https://golang.org/) client library for the
 ## Installation
 
 ```
-go get github.com/ewilde/go-runscope
+go get github.com/louy/go-runscope
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ package main
 
 import (
     "fmt"
-    "github.com/ewilde/go-runscope"
+    "github.com/louy/go-runscope"
 )
 
 func createBucket() {
@@ -225,7 +225,7 @@ Your team url can be found by taking the uuid from https://www.runscope.com/team
 
 ## Contributing
 
-1. Fork it ( https://github.com/ewilde/go-runscope/fork )
+1. Fork it ( https://github.com/louy/go-runscope/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Make sure that `make build` passes with test running
 3. Commit your changes (`git commit -am 'Add some feature'`)
